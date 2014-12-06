@@ -67,7 +67,7 @@ def roundone(name):
 def roundtwo(name):
 	correct = 0
 	total = 0
-	print 'Okay ' + name + ', in this round you have the oppurtunity to lose another 200 points!\n'
+	print 'Okay ' + name + ', in this round you have the opportunity to lose another 200 points!\n'
 	print 'I am going to provide two options and you just have to select - THIS OR THAT\n'
 	for row in R2reader:
 		total += 1
